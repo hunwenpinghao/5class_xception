@@ -10,4 +10,11 @@
 
 
 # environment
-keras==
+keras
+scikit-learn
+matplotlib
+pickle
+h5py
+numpy 
+
+版本的话，一般较高版本都可以兼容。
